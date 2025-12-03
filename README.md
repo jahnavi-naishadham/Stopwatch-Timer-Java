@@ -13,7 +13,7 @@ Includes a stylish UI, smooth navigation, and a customizable countdown timer.
 
 🧭 Options page for navigation
 
-🎨 Modern UI: Rounded buttons, clean fonts, centered layout
+🎨 Modern UI: Buttons, clean fonts, centered layout
 
 💯 Pure Java (no external libraries)
 
