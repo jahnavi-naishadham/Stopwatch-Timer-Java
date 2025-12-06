@@ -55,3 +55,5 @@ Open the project → Run Main.java
 Java 8+
 
 Swing (GUI Framework)
+
+Special thanks to CodeClause for providing this project during the internship.
